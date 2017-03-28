@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/commons-collections-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/commons-net-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/connector.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/hessian-3.0.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/log4j-1.2.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/新建文件夹/quartz-1.6.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
